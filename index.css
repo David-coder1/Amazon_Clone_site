@@ -410,6 +410,7 @@ footer {
   .nav-country {
     display: none;
   }
+}
 
 @media (max-width: 282px) {
   .nav-bottom {
