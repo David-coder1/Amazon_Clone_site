@@ -313,9 +313,6 @@ footer {
   .control_prev {
     display: none;
   }
-  .control_next {
-    display: none;
-  }
 }
 
 @media (max-width: 540px) {
@@ -323,7 +320,7 @@ footer {
     font-size: 12px;
   }
 
-  .nav-country {
+  .nav-text {
     display: none;
   }
 }
@@ -337,7 +334,7 @@ footer {
     position: relative;
   }
 
-  .nav-country {
+  .nav-text {
     display: none;
   }
 }
@@ -356,7 +353,7 @@ footer {
     gap: 5px;
   }
 
-  .nav-country {
+  .nav-text {
     display: none;
   }
 }
@@ -378,7 +375,7 @@ footer {
     top: -1vh;
   }
 
-  .nav-country {
+  .nav-text {
     display: none;
   }
 }
@@ -398,7 +395,7 @@ footer {
     font-size: 15px;
   }
 
-  .nav-country {
+  .nav-text {
     display: none;
   }
 }
@@ -407,7 +404,7 @@ footer {
   .nav-bottom {
     font-size: 13px;
   }
-  .nav-country {
+  .nav-text {
     display: none;
   }
 }
@@ -424,7 +421,7 @@ footer {
   .nav-text h1 {
     display: none;
   }
-  .nav-country {
+  .nav-text {
     display: none;
   }
 }
